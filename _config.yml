@@ -13,6 +13,7 @@ markdown: kramdown
 
 # minify assets; jekyll-assets
 assets:
+  baseurl: "http://daveande.github.io/everclimb"
   compress:
     css:  sass
     js:   uglifier
