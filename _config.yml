@@ -1,0 +1,12 @@
+# Site settings
+title: EverClimb
+email: david@everclimb.co
+description: > # this means to ignore newlines until "baseurl:"
+  EverClimb Inc
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://www.everclimb.com" # the base hostname & protocol for your site
+twitter_username: daveande
+github_username:  daveande
+
+# Build settings
+markdown: kramdown
