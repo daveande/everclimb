@@ -10,3 +10,9 @@ github_username:  daveande
 
 # Build settings
 markdown: kramdown
+
+# minify assets; jekyll-assets
+assets:
+  compress:
+    css:  sass
+    js:   uglifier
